@@ -1,0 +1,33 @@
+/testback
+/testfront
+/projbackend/node_modules
+/projfrontend/node_modules
+
+
+# dependencies
+/projfrontend/.pnp
+/projfrontend/.pnp.js
+
+# testing
+/projfrontend/coverage
+
+# production
+/projfrontend/build
+
+# misc
+/projfrontend/.DS_Store
+/projfrontend/.env.local
+/projfrontend/.env.development.local
+/projfrontend/.env.test.local
+/projfrontend/.env.production.local
+
+/projfrontend/npm-debug.log*
+/projfrontend/yarn-debug.log*
+/projfrontend/yarn-error.log*
+
+
+
+
+/projbackend/.env
+/projbackend/.env.test
+/projbackend/.env*.local
